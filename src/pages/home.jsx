@@ -21,6 +21,7 @@ function Home() {
                     <ul className="list-group list-group-flush d-inline-block text-start mt-3">
                         <li className="list-group-item"><strong>Projects</strong> - What I've worked on</li>
                         <li className="list-group-item"><strong>About</strong> - My skills and experience</li>
+                        <li className="list-group-item"><strong>Contact Form</strong> - Send me a message!</li>
                     </ul>
 
                     <div className="mt-4">
